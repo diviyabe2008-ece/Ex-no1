@@ -209,38 +209,7 @@ END
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
 .
 
-
-
 .
-
-
-
-
-.
-
-
-
-.
-
-
-
-.
-
-.
-
-
-.
-
-.
-
-
-.
-
-
-.
-
-
-
 .
 
 
@@ -249,6 +218,9 @@ Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (
 
 
 
+.
+.
+.
 
 
 
@@ -257,7 +229,7 @@ Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (
 
 .
 
-
+.
 
 
 
@@ -270,10 +242,12 @@ Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (
 
 .
 
+
+
+
 .
 
 
-.
 
 
 .
@@ -281,11 +255,196 @@ Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (
 
 
 
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
 
 
 
 
 
 
+
+
+.
+
+
+
+
+
+
+.
+
+
+
+
+
+
+.
+
+
+
+
+
+.
+
+
+
+.
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+.
+.
+
+
+
+
+
+
+.
+
+
+
+
+.
+.
+.
+
+
+
+
+.
+
+
+
+
+
+.
+.
+.
+.
+
+
+
+
+
+
+.
+.
+.
+
+
+
+
+
+.
+.
+
+
+
+.
+
+
+
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+
+
+
+
+
+
+.
+.
+.
 
 
